@@ -25,7 +25,7 @@ Upon completing the lab, you will know how to:
 ### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then click Projects in the top menubar and select the project you created at the beginning of this proof of technology.
 
 ### Step 2.  Click the `Add to project > Notebook` link in the top right of your project pane.
-<img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-1/images/DSX-add-notebook.png" height="150"/>
+<img src="https://raw.githubusercontent.com/jpatter/GEOINT/master/Lab-1/images/add-notebook.png" height="150"/>
 
 ### Step 3.  Click the `From URL` tab under `Create Notebook`.
 
@@ -33,10 +33,10 @@ Upon completing the lab, you will know how to:
 
 ### Step 5.  In the Notebook URL field, use `https://github.com/jpatter/GEOINT/blob/master/Lab-2/Categorizing-Vetted-Data.ipynb`
 
-<img src="https://github.com/bleonardb3/DSX/blob/master/Lab-2/images/Lab2ReadmeNewNotebook.png"/>
+<img src="https://github.com/jpatter/GEOINT/blob/master/Lab-2/images/create-notebook-from-url.png"/>
 
 ### Step 6.  Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
 
 ### Step 7.  Follow the instructions in the notebook.
 
-<img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/lab2-notebook.png"/>
+<img src="https://raw.githubusercontent.com/jpatter/GEOINT/master/GEOINT/images/edit-notebook-begin.png"/>
