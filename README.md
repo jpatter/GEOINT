@@ -1,4 +1,4 @@
-# IBM Proof of Technology - Data Science Experience
+# IBM Proof of Technology - Watson Studio
 
 ## Description:
 
@@ -8,21 +8,21 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/RStudio2.png"/>](https://www.rstudio.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/shiny.png"/>](https://shiny.rstudio.com/)
 
-Use IBM’s Data Science Experience (DSX) and IBM cloud services to create a working cloud-based application from start to finish.  Participants will be led through a series of three labs that build upon one another so it is important that they are completed in order. A fourth lab will explore additional features of the Data Science Experience. 
+Use IBM’s Watson Studio and IBM Cloud services to create a working cloud-based application from start to finish.  Participants will be led through a series of three labs that build upon one another so it is important that they are completed in order. A fourth lab will explore additional features of Watson Studio. 
 
-1. [Lab-1](Lab-1) - The first lab will begin with loading raw delimited data into DB2 Warehouse for Cloud and interacting with that data from a Jupyter notebook in DSX with python.
+1. [Lab-1](Lab-1) - The first lab will begin with loading raw delimited data into DB2 Warehouse for Cloud and interacting with that data from a Jupyter notebook in Watson Studio with python.
 
 1. [Lab-2](Lab-2) - The second lab will leverage Spark machine learning (SparkML) on the loaded data to create categorical predictions using pyspark and a supervised learning model and store the results back to the database.
 
-1. [Lab-3](Lab-3) - The third lab will guide participants in creating an R notebook and Shiny UI in DSX using RStudio.
+1. [Lab-3](Lab-3) - The third lab will guide participants in creating an R notebook and Shiny UI in Watson Studio using RStudio.
 
-1. [Lab-4](Lab-4) - Time permitting there will be two labs to choose from for Lab 4. The first one features Watson Machine Learning, a point and click capability to build a machine learning model and deploy it. The second lab features the Canvas- a visual programming tool to create a machine learning pipeline. 
+1. [Lab-4](Lab-4) - Time permitting there will be two labs to choose from for Lab 4. The first one features Watson Machine Learning, a point and click capability to build a machine learning model and deploy it. The second lab features SPSS - a visual programming tool to create a machine learning pipeline. 
 
 ## Instructions:
 
-### Step 1. Sign up for the IBM Data Science Experience (DSX).   We recommend using the Firefox browser.
+### Step 1. Sign up for IBM Watson Studio.   We recommend using the Firefox browser.
 
-__NOTE__: If you already have a DSX account, please skip to __Step 2__.
+__NOTE__: If you already have a Watson Studio account, please skip to __Step 2__.
 
 #### Create an account.
 
@@ -83,7 +83,7 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ClickNewProject.png"/>
 
-3. Type a name for your project. For instance, "DSX Labs" and optionally a Description.  You will need to assign Object Storage.  Press on the Add link in the Object Storage section below. 
+3. Type a name for your project. For instance, "Watson Studio Labs" and optionally a Description.  
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/New%20Project.png"/>
 
