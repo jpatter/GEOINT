@@ -4,14 +4,14 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://github.com/jpatter/LMCO/blob/master/Lab-1/images/DB2Warehouse.png" height="150"/>](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/dashdb/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
 
-In this lab, you will use IBM's Data Science Experience (DSX) to create a Jupyter IPython notebook to connect to and query a DB2 Warehouse instance running in IBM Bluemix.
+In this lab, you will use IBM's Watson Studio to create a Jupyter IPython notebook to connect to and query a DB2 instance running in IBM Cloud.
 
 ## Objectives:
 
 Upon completing the lab, you will know how to:
 
 1. Create a Jupyter IPython notebook from a URL
-1. Establish a connection to DB2 Warehouse on Cloud
+1. Establish a connection to the DB2 database
 1. Use a dataframe to read and manipulate tables
 1. Use SQL to query the database
 1. Explore the data using techniques from earlier in the lab
@@ -19,7 +19,7 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1.  Log into your [DSX](http://datascience.ibm.com/) account, then click Projects in the top menu bar then select the project you created at the beginning of this proof of technology.
+### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then click Projects in the top menu bar then select the project you created at the beginning of this proof of technology.
 
 > <img src="https://raw.githubusercontent.com/jpatter/GEOINT/master/Lab-1/images/DSX-open-project.png"/>
 
