@@ -39,4 +39,4 @@ Upon completing the lab, you will know how to:
 
 ### Step 7.  Follow the instructions in the notebook.
 
-<img src="https://raw.githubusercontent.com/jpatter/GEOINT/master/GEOINT/images/edit-notebook-begin.png"/>
+<img src="https://raw.githubusercontent.com/jpatter/GEOINT/master/Lab-2/images/edit-notebook-begin.PNG"/>
