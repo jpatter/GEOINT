@@ -25,7 +25,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 2.  Click the `Add to project > Notebook` link in the top right of your project pane.
 
-> <img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-1/images/DSX-add-notebook.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/GEOINT/master/Lab-1/images/add-notebook.png"/>
 
 ### Step 3.  Create the notebook.
 
@@ -38,4 +38,4 @@ Upon completing the lab, you will know how to:
 
 ### Step 4.  Follow the instructions in the notebook.
 
-> <img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-1/images/DSX-edit-notebook-begin.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/GEOINT/master/Lab-1/images/edit-notebook-begin.png"/>
