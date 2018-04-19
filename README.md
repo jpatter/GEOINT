@@ -46,7 +46,7 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 6. In your e-mail inbox, there should be a message from IBM Cloud.
 
- >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/signup/gmail_ibm_cloud.PNG"/>
+ >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/gmail_ibm_cloud.PNG"/>
 
 7. Open the e-mail and click on <b>Confirm Account</b>.
 
