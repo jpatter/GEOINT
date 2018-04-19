@@ -115,7 +115,7 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/CreateSpark.png"/>
 
-11. Set the Spark instance name if you wish and select <b>Confirm</b> 
+11. Set the Spark service name if you wish and select <b>Confirm</b> 
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmSpark.PNG"/>
 
@@ -127,7 +127,7 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/CreateML.png"/>
 
-14. Set the Machine Learning instance name if you wish and select <b>Confirm</b> 
+14. Set the Machine Learning service name if you wish and select <b>Confirm</b> 
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmML.PNG"/>
 
