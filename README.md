@@ -99,27 +99,39 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Storage.PNG"/>
 
-7. Now create a Spark Service.  Press the Add link in the Spark section. 
+7. The project overview page appears. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Add%20Spark%20Service.png"/>
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Project%20Overview.png"/>
 
-8. Select the Lite Plan and click Create. 
+8. Now create a Spark Service.  Change the tab to the Settings section 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/SelectLiteSparkPlan.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Settings.png"/>
 
-9. Press Confirm
+9. Scroll to Associated Services and select Spark
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ConfirmLiteSparkPlan.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ServiceSpark.png"/>
 
-10. Go back to the New Project page, and click Refresh in the Spark service section. 
+10. Select the Lite (free) plan and select Create
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Refresh%20for%20Spark%20Service.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/CreateSpark.png"/>
 
-11. Click Create. 
+11. Set the Spark instance name if you wish and select Confirm 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Create%20for%20New%20Project.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmSpark.PNG"/>
 
-12. The project overview page appears. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
+12. Scroll to Associated Services and select Machine Learning
+
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/SelectML.png"/>
+
+13. Select the Lite (free) plan and select Create
+
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/CreateML.png"/>
+
+14. Set the Spark instance name if you wish and select Confirm 
+
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmML.PNG"/>
+
+15. Return to the Assets page. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Project%20Overview.png"/>
  
