@@ -83,21 +83,21 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ClickNewProject.png"/>
 
-3. Type a name for your project. For instance, "Watson Studio Labs" and optionally a Description.  
+3. Type a name for your project. For instance, "Watson Studio Labs" and optionally a Description.  Then select the Add link to select a Storage Service.
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/New%20Project.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/NewProject.PNG"/>
 
 4. Select the Lite Plan and press Create. 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/SelectLiteObjectPlan.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/COS.png"/>
 
-5. Press Confirm
+5. Change the Name if desired and press Confirm
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ConfirmLiteObjectPlan.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/COS-Confirm.PNG"/>
 
-6. Go back to the New Project page, and click Refresh in the Object Storage section. 
+6. Go back to the New Project page, and click Refresh in the Object Storage section. Your project should now appear similar to:
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Refresh%20for%20Object%20Storage.png"/>
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/Storage.PNG"/>
 
 7. Now create a Spark Service.  Press the Add link in the Spark section. 
 
