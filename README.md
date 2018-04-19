@@ -50,7 +50,7 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 7. Open the e-mail and click on <b>Confirm Account</b>.
 
- >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Gmail%202.png"/>
+ >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/gmail_ibm_cloud_confirm.PNG"/>
 
 8. Go back to the Watson Studio session, and enter your Watson Studio user id (e-mail account) and click <b>Continue</b>. Or, skip to step 10 if the system automatically logs you in. 
 
