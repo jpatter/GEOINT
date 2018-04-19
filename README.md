@@ -44,58 +44,58 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
  > <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Thanks.png" width="624" height="300"/>
 
-6. In your e-mail inbox, there should be a message from The Bluemix Team.
+6. In your e-mail inbox, there should be a message from IBM Cloud.
 
  >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Gmail.png"/>
 
-7. Open the e-mail and click on Confirm Account.
+7. Open the e-mail and click on <b>Confirm Account</b>.
 
  >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Gmail%202.png"/>
 
-8. Go back to the DSX session, and enter your DSX user id (e-mail account) and click Continue. Or, skip to step 10 if the system automatically logs you in. 
+8. Go back to the Watson Studio session, and enter your Watson Studio user id (e-mail account) and click <b>Continue</b>. Or, skip to step 10 if the system automatically logs you in. 
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Sign%20into%20IBM.png"/>
 
-9.  Enter your password and click Sign in.
+9.  Enter your password and click <b>Sign in</b>.
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Enter%20Password.png"/>
 
-10. Select the IBM Cloud Account (IBM), select the organization (your e-mail), and then select the space (dev) and click Continue.
+10. Select the defaults which should be IBM Cloud Account (IBM), organization (your e-mail), and space (dev) and click <b>Continue</b>.
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Select%20Organization.png"/>
 
-11. It may take several minutes to set up the account. You will see several screens pop-up (e.g. Registering User, Initializing Environment). Wait until you see the following screen and then click on Get Started.
+11. It may take several minutes to set up the account. You will see several screens pop-up (e.g. Registering User, Initializing Environment). Wait until you see the following screen and then click on <b>Get Started</b>.
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Done.png"/>
 
 
- > You are now in the Data Science Experience landing page. From here you can explore any of the tutorials, videos, sample notebooks, tutorials or articles in the community.
+ > You are now in the Watson Studio landing page. From here you can explore any of the tutorials, videos, sample notebooks, tutorials or articles in the community.
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Welcome.png"/>
 
 ### Step 2. Create a project
 
-1. Click on Projects > View All Projects to see a list of your projects. 
+1. Click on <b>Projects > View All Projects</b> to see a list of your projects. 
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/View%20All%20Projects.png"/>
 
-2. If you just signed up, you will not have any projects. Click on the New project button. 
+2. If you just signed up, you will not have any projects. Click on the <b>New Project</b> button. 
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ClickNewProject.png"/>
 
-3. Type a name for your project. For instance, "Watson Studio Labs" and optionally a Description.  Then select the Add link to select a Storage Service.
+3. Type a Name for your project. For instance, "Watson Studio Labs" and optionally a Description.  Then select the <b>Add</b> link to select a Storage Service.
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/NewProject.PNG"/>
 
-4. Select the Lite Plan and press Create. 
+4. Select the <b>Lite</b> Plan and press <b>Create</b>. 
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/COS.png"/>
 
-5. Change the Name if desired and press Confirm
+5. Change the Name if desired and press <b>Confirm</b>
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/COS-Confirm.PNG"/>
 
-6. Go back to the New Project page, and click Refresh in the Object Storage section. Your project should now appear similar to the following image.   Press Create to finalize project creation.
+6. Return to the New Project page, and click <b>Refresh</b> in the Object Storage section. Your project should now appear similar to the following image.   Press <b>Create</b> to finalize project creation.
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Storage.PNG"/>
 
@@ -103,35 +103,35 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Project%20Overview.png"/>
 
-8. Now create a Spark Service.  Change the tab to the Settings section 
+8. Now create a Spark Service.  Change the tab to the <b>Settings</b> section 
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Settings.png"/>
 
-9. Scroll to Associated Services and select Spark
+9. Scroll to <b>Associated Services</b> and select <b>Spark</b>
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ServiceSpark.png"/>
 
-10. Select the Lite (free) plan and select Create
+10. Select the <b>Lite</b> (free) plan and select <b>Create</b>
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/CreateSpark.png"/>
 
-11. Set the Spark instance name if you wish and select Confirm 
+11. Set the Spark instance name if you wish and select <b>Confirm</b> 
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmSpark.PNG"/>
 
-12. Scroll to Associated Services and select Machine Learning
+12. Scroll to <b>Associated Services</b> and select <b>Machine Learning</b>
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/SelectML.png"/>
 
-13. Select the Lite (free) plan and select Create
+13. Select the <b>Lite</b> (free) plan and select <b>Create</b>
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/CreateML.png"/>
 
-14. Set the Spark instance name if you wish and select Confirm 
+14. Set the Machine Learning instance name if you wish and select <b>Confirm</b> 
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmML.PNG"/>
 
-15. Return to the Assets page. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
+15. Return to the <b>Assets</b> page. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Assets.png"/>
  
