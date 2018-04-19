@@ -133,7 +133,7 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 15. Return to the Assets page. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Project%20Overview.png"/>
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/Assets.png"/>
  
 
 You are now ready to begin [Lab-1](Lab-1/).
