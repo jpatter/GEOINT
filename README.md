@@ -99,27 +99,39 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Storage.PNG"/>
 
-7. Now create a Spark Service.  Change the tab to the Settings section 
+7. The project overview page appears. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Project%20Overview.png"/>
+
+8. Now create a Spark Service.  Change the tab to the Settings section 
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Settings.png"/>
 
-8. Scroll to Associated Services and select Spark
+9. Scroll to Associated Services and select Spark
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ServiceSpark.png"/>
 
-9. Select the Lite (free) plan and select Create
+10. Select the Lite (free) plan and select Create
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/CreateSpark.png"/>
 
-10. Set the Spark instance name if you wish and select Confirm 
+11. Set the Spark instance name if you wish and select Confirm 
 
->  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmSpark.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmSpark.PNG"/>
 
-11. Click Create. 
+12. Scroll to Associated Services and select Machine Learning
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Create%20for%20New%20Project.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/SelectML.png"/>
 
-12. The project overview page appears. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
+13. Select the Lite (free) plan and select Create
+
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/CreateML.png"/>
+
+14. Set the Spark instance name if you wish and select Confirm 
+
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmML.PNG"/>
+
+15. Return to the Assets page. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Project%20Overview.png"/>
  
