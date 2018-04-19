@@ -95,9 +95,9 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/COS-Confirm.PNG"/>
 
-6. Go back to the New Project page, and click Refresh in the Object Storage section. Your project should now appear similar to:
+6. Go back to the New Project page, and click Refresh in the Object Storage section. Your project should now appear similar to the following image.   Press Create to finalize project creation.
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/Storage.PNG"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Storage.PNG"/>
 
 7. Now create a Spark Service.  Press the Add link in the Spark section. 
 
