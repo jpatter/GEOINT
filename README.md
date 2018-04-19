@@ -99,21 +99,21 @@ __NOTE__: If you already have a Watson Studio account, please skip to __Step 2__
 
 >  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Storage.PNG"/>
 
-7. Now create a Spark Service.  Press the Add link in the Spark section. 
+7. Now create a Spark Service.  Change the tab to the Settings section 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Add%20Spark%20Service.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/Settings.png"/>
 
-8. Select the Lite Plan and click Create. 
+8. Scroll to Associated Services and select Spark
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/SelectLiteSparkPlan.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ServiceSpark.png"/>
 
-9. Press Confirm
+9. Select the Lite (free) plan and select Create
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ConfirmLiteSparkPlan.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/CreateSpark.png"/>
 
-10. Go back to the New Project page, and click Refresh in the Spark service section. 
+10. Set the Spark instance name if you wish and select Confirm 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Refresh%20for%20Spark%20Service.png"/>
+>  <img src="https://github.com/jpatter/GEOINT/blob/master/images/ConfirmSpark.png"/>
 
 11. Click Create. 
 
