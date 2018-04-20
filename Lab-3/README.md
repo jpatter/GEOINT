@@ -38,8 +38,8 @@ Upon completing the lab, you will know how to:
 ### Step 4.  Select `Git`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select-git-project.png"/>
 
-### Step 5.  Fill in git repository details using the URL `https://github.com/bleonardb3/DSX` and press `Create Project`.
-> <img src="https://github.com/bleonardb3/DSX/blob/master/Lab-3/images/Lab3CloneGitRepository.png"/>
+### Step 5.  Fill in git repository details using the URL `https://github.com/jpatter/GEOINT` and press `Create Project`.
+> <img src="https://github.com/jpatter/GEOINT/blob/master/Lab-3/images/Lab3CloneGitRepository.png"/>
 
 After the project gets created, you'll see a screen similar to the following:
 
