@@ -48,7 +48,7 @@ After the project gets created, you'll see a screen similar to the following:
 ### Step 6.  In the files pane in the lower right of the RStudio IDE, click `Lab-3`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-files.png"/>
 
-### Step 7.  Click the `connection.R` file and fill in your DB2 Warehouse connection details.   You can find these from one of the previous labs.   Don't forget to set vetting.table to 'FEMALE_HUMAN_TRAFFICKING'.   Save the file.
+### Step 7.  Click the `connection.R` file and fill in your DB2 Warehouse connection details.   You can find these from one of the previous labs.   Don't forget to set vetting.table to 'FEMALE_HUMAN_TRAFFICKING' plus your extension (i.e. FEMALE_HUMAN_TRAFFICKING_JOEL042318)   Save the file.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-connection.png"/>
 
 ### Step 8.  Click the `dashConnectAndInteractInR.R` file in the files pane in the lower right of the RStudio IDE and run the cells in sequence from top to bottom in the notebook using the `Run current chunk` (green triangle) button in the top right of each cell.
@@ -74,4 +74,4 @@ Notice how your app reacts as you interact with it.  Try out the search in the u
 
 ### Step 14.  [Get Inspired!](https://shiny.rstudio.com/gallery/)
 
-You now have an end-to-end skeleton application that uses vetting data, DB2 Warehouse, SparkML and DSX that you can now flesh out into something truly useful in a short amount of time without having to write a lot of code.
+You now have an end-to-end skeleton application that uses vetting data, DB2 Warehouse, SparkML and Watson Studio that you can now flesh out into something truly useful in a short amount of time without having to write a lot of code.
